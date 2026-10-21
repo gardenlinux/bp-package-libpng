@@ -1,0 +1,4 @@
+version="1.6.59-1"
+version_suffix="gl0~bp2150"
+
+git_src --branch "debian/$version" https://salsa.debian.org/debian/libpng1.6.git
